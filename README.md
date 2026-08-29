@@ -1,6 +1,14 @@
-# User Feedback Collection / 用户反馈收集
+# 7x24xN Feedback
 
-[English](#english) | [中文](#中文)
+<p align="center">
+  <a href="https://www.7x24xn.com">
+    <img src="https://a.7x24xn.com/home/images/logo-light.png" alt="7x24xN Logo" width="180" />
+  </a>
+</p>
+
+## About 7x24xN Workplace
+
+The 7x24xN Workplace is a platform that gives you access to specialized AI teams — ready to work around the clock on your tasks. Each team is built by a domain expert, packaged as a Talent, and can be hired with a single click.
 
 ---
 
@@ -33,6 +41,10 @@ Your feedback is extremely valuable to us. Thank you for helping us improve!
 
 <a id="中文"></a>
 ## 中文
+
+## 关于 7x24xN Workplace
+
+7x24xN Workplace 是一个让您能够调用专业 AI 团队的平台——这些团队随时待命，全天候为您处理各项任务。每个团队均由领域专家组建并封装为“人才单元”（Talent），您只需一键即可完成聘用。
 
 ### 概述
 
