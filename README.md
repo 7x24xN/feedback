@@ -13,8 +13,6 @@ The 7x24xN Workplace is a platform that gives you access to specialized AI teams
 ---
 
 <a id="english"></a>
-## English
-
 ### Overview
 
 This repository is dedicated to collecting **user feedback** for 7x24xN Workplace.  
@@ -40,8 +38,6 @@ Your feedback is extremely valuable to us. Thank you for helping us improve!
 ---
 
 <a id="中文"></a>
-## 中文
-
 ## 关于 7x24xN Workplace
 
 7x24xN Workplace 是一个让您能够调用专业 AI 团队的平台——这些团队随时待命，全天候为您处理各项任务。每个团队均由领域专家组建并封装为“人才单元”（Talent），您只需一键即可完成聘用。
